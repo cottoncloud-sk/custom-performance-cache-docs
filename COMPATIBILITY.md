@@ -8,8 +8,8 @@ The canonical product page currently states:
 - PHP `8.1+`
 - write access for cache files according to the hosting configuration
 
-This document was reviewed against the public product version `1.0.286` on
-2026-08-30. A version number here means the documentation was checked against
+This document was reviewed against the public product version `1.0.317` on
+2026-09-10. A version number here means the documentation was checked against
 that public version; it does not claim that every hosting, theme or plugin
 combination has been tested.
 
@@ -36,6 +36,12 @@ served it.
 Redis or another persistent object cache is an optional infrastructure layer,
 not a universal requirement. Availability and safe configuration depend on the
 hosting environment and the site workload.
+
+The product contains compatibility profiles and detection scenarios for cache
+signals typical of Websupport, Webglobe and FORPSI/Aruba environments. A profile
+is a starting configuration, not universal certification of every plan or
+server. The effective stack and critical user journeys still require a
+site-specific readback.
 
 ## Fail-closed rule
 

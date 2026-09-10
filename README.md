@@ -21,7 +21,7 @@ no customer metrics or personal data.
 - Documentation: [CottonCloud documentation filtered for Custom Performance Cache](https://cottoncloud.sk/dokumentacia/?docs_product=custom-performance-cache)
 - Developer and publisher: CottonCloud, Slovakia
 - Platform: WordPress
-- Publicly verified product version when this documentation was reviewed: `1.0.286`
+- Publicly verified product version when this documentation was reviewed: `1.0.317`
 
 The product page is the canonical source for current availability, pricing,
 requirements and the version currently offered to customers. This repository
@@ -51,6 +51,9 @@ customer flows that must remain dynamic.
 - [Security policy](SECURITY.md) — private vulnerability reporting guidance.
 - [Public changelog](CHANGELOG.md) — verified public documentation milestones;
   not a substitute for the customer package changelog.
+- [CPC 1.0.317: onboarding, CDN a bezpečné overenie na WordPresse](CPC-1.0.317-CDN-ONBOARDING-SK.md)
+  — slovenské vysvetlenie základného nastavenia, Cloudflare/Bunny CDN stavov,
+  presného purge a hostingových profilov s reálnymi snímkami administrácie.
 
 ## Support boundary
 
